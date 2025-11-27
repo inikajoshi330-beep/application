@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+orange3
+orange3-text
+nltk
